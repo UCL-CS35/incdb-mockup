@@ -188,3 +188,7 @@ table{
 	font-weight: 200;
 	font-size: 20px;
 }
+
+.form-horizontal .form-group{
+	margin: 0;
+}
